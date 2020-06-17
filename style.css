@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+}
+
+.container .left {
+    width: 10%;
+    background-color: slateblue;
+    height: 100%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+hr {
+    width: 80%;
+    margin: 0;
+    border: 1px solid tomato;
+}
